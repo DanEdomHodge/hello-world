@@ -1,2 +1,2 @@
 # hello-world
-github training
+github training for idiots
